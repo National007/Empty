@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a175231-3051-4d19-929e-12d87a445cab" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1mMzGPvoIxD3J3OZWpcrlGoFgjs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="D:/BS-HMDT3.0/BS-HMDT" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ShardingdemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.ShardingdemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ShardingdemoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1663" height="321" key="GridCell.Tab.0.bottom" timestamp="1609382784305">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="321" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1609382784305" />
+    <state width="1663" height="321" key="GridCell.Tab.0.center" timestamp="1609382784305">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="321" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1609382784305" />
+    <state width="1663" height="321" key="GridCell.Tab.0.left" timestamp="1609382784304">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="321" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1609382784304" />
+    <state width="1663" height="321" key="GridCell.Tab.0.right" timestamp="1609382784305">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="321" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1609382784305" />
+    <state width="1663" height="321" key="GridCell.Tab.1.bottom" timestamp="1609382784306">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="321" key="GridCell.Tab.1.bottom/0.0.1707.920@0.0.1707.920" timestamp="1609382784306" />
+    <state width="1663" height="321" key="GridCell.Tab.1.center" timestamp="1609382784305">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="321" key="GridCell.Tab.1.center/0.0.1707.920@0.0.1707.920" timestamp="1609382784305" />
+    <state width="1663" height="321" key="GridCell.Tab.1.left" timestamp="1609382784305">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="321" key="GridCell.Tab.1.left/0.0.1707.920@0.0.1707.920" timestamp="1609382784305" />
+    <state width="1663" height="321" key="GridCell.Tab.1.right" timestamp="1609382784305">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="321" key="GridCell.Tab.1.right/0.0.1707.920@0.0.1707.920" timestamp="1609382784305" />
+    <state width="1663" height="321" key="GridCell.Tab.2.bottom" timestamp="1609382784306">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="321" key="GridCell.Tab.2.bottom/0.0.1707.920@0.0.1707.920" timestamp="1609382784306" />
+    <state width="1663" height="321" key="GridCell.Tab.2.center" timestamp="1609382784306">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="321" key="GridCell.Tab.2.center/0.0.1707.920@0.0.1707.920" timestamp="1609382784306" />
+    <state width="1663" height="321" key="GridCell.Tab.2.left" timestamp="1609382784306">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="321" key="GridCell.Tab.2.left/0.0.1707.920@0.0.1707.920" timestamp="1609382784306" />
+    <state width="1663" height="321" key="GridCell.Tab.2.right" timestamp="1609382784306">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="321" key="GridCell.Tab.2.right/0.0.1707.920@0.0.1707.920" timestamp="1609382784306" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/demo/config/sharding/CreateTimeShardingDatabaseAlgorithm.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/demo/config/sharding/CarParkShardingTableAlgorithm.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
